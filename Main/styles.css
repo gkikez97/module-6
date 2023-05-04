@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://images.hdqwalls.com/download/thunderstorm-lightning-bolt-striking-down-at-sunset-in-nebraska-4k-u1-2560x1600.jpg);
+    background-size: cover;
+}
+
+
+#header h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 0%;
+    color: rgb(255, 255, 255);
+}
+
+
+#header{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.search-box {
+    margin-left: 0%;
+    margin-bottom: 0%;
+    border-style: solid;
+    border-color:rgba(254, 254, 254);
+}
+
+
+
+#search-text {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10%;
+    border-style: solid;
+    border-color:rgb(0, 0, 0);
+    background-image: url(https://th.bing.com/th/id/R.b0eb9271c6f47e7a63a2c95fce4a3cd5?rik=2cbM8JnY9r6dQg&pid=ImgRaw&r=0);
+    background-size: cover;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.location {
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.current {
+    margin-top: 3%;
+    font-size: 20px;
+    text-align: center;
+}
+
+#sections {
+    border-style: solid;
+    width: 40%;
+    padding: 0;
+    margin-left: 29%;
+    margin-top: 10%;
+}
